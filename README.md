@@ -13,6 +13,7 @@ Please visit the:
 - Poster for highlights of the Project
 - Report for an overview of the Project
 - Core Analysis Workbook for the code to execute the Regional Analysis conducted in the Report
+      - Regional Analysis Workbook for the Table Visuals aggregating the results from the Regional Analysis
 - Additional Analyses Workbook for the code to execute Secondary Analyses conducted in the Report
 
 How to Run Core Analysis Workbook:
