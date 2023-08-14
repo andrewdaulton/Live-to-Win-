@@ -3,7 +3,7 @@ Live to Win! Analyzing Common Causes of Death within the World of Warcraft Hardc
 
 Contents:
 - LICENSE (GNU General Public License v3.0)
-- requirements.txt (libraries required to run code)
+- Requirements (libraries required to run code)
 - Report & Poster (Project Report & Poster)
 - Data (Project Data)
 - Core Analysis (Core Regional Analysis outlined in Project Report)
