@@ -9,6 +9,12 @@ Contents:
 - Core Analysis (Core Regional Analysis outlined in Project Report)
 - Additional Analyses (Secondary Analyses conducted & outlined in Project Report)
 
+Please visit the:
+- Poster for highlights of the Project
+- Report for an overview of the Project
+- Core Analysis Workbook for the code to execute the Regional Analysis conducted in the Report
+- Additional Analyses Workbook for the code to execute Secondary Analyses conducted in the Report
+
 How to Run Core Analysis Workbook:
 - Launch main/Core%20Analysis/Live%20to%20Win!%20Workbook.ipynb
 - Restart & Run all cells
