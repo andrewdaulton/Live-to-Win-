@@ -1,2 +1,16 @@
 # Live-to-Win-
 Live to Win! Analyzing Common Causes of Death within the World of Warcraft Hardcore Challenge
+
+Contents:
+- LICENSE (GNU General Public License v3.0)
+- requirements.txt (libraries required to run code)
+- Report & Poster (Project Report & Poster)
+- Data (Project Data)
+- Core Analysis (Core Regional Analysis outlined in Project Report)
+- Additional Analyses (Secondary Analyses conducted & outlined in Project Report)
+
+How to Run Core Analysis Workbook:
+- Launch main/Core%20Analysis/Live%20to%20Win!%20Workbook.ipynb
+- Restart & Run all cells
+- Summary Visuals will populate within the notebook (beginning after Call: Create Model is executed [cell 27])
+- Regional Analysis Visuals will populate within the notebook when a zone name is provided [cell 36] (see main/Data/Regional%20Analysis.xlsx for a list of all zone names)
