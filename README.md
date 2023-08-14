@@ -13,7 +13,7 @@ Please visit the:
 - Poster for highlights of the Project
 - Report for an overview of the Project
 - Core Analysis Workbook for the code to execute the Regional Analysis conducted in the Report
-      - Regional Analysis Workbook for the Table Visuals aggregating the results from the Regional Analysis
+    - Ex: Elwynn Forest, Dun Morogh, Teldrassil, Westfall, Loch Modan, etc.
 - Additional Analyses Workbook for the code to execute Secondary Analyses conducted in the Report
 
 How to Run Core Analysis Workbook:
@@ -23,4 +23,6 @@ How to Run Core Analysis Workbook:
 - Regional Analysis Visuals will populate within the notebook when a zone name is provided [cell 36]
     - Ex: Elwynn Forest, Dun Morogh, Teldrassil, Westfall, Loch Modan, etc.
     - See main/Data/Regional%20Analysis.xlsx for a list of all zone names
-x
+
+
+      - Regional Analysis Workbook for the Table Visuals aggregating the results from the Regional Analysis
